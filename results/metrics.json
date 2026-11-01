@@ -1,0 +1,17 @@
+{
+  "verification": "PASS",
+  "ode_max_state_error": 3.2919968973033065E-9,
+  "switching": {
+    "mean_voltage_V": 12.000000076707051,
+    "mean_voltage_error_percent": 6.3922539853914862E-7,
+    "voltage_ripple_peak_to_peak_V": 0.005427640593202554,
+    "inductor_ripple_peak_to_peak_A": 0.47761424186374679,
+    "minimum_rectifier_current_A": 2.7611590663324335,
+    "cycle_state_residual": 4.0145664570445661E-13,
+    "power_balance_residual_W": -7.2857821544892869E-7,
+    "duty": 0.606
+  },
+  "stop_time_s": 0.015460000000000002,
+  "final_voltage_error_V": 0.0004674033606324457,
+  "peak_inductor_current_A": 3.000254261300658
+}

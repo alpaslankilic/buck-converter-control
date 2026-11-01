@@ -1,0 +1,10 @@
+{
+  "startup_settled_at_s": 0.0076000000000000009,
+  "load_change_at_s": 0.0076200000000000009,
+  "load_settled_at_s": 0.012260000000000002,
+  "line_change_at_s": 0.012280000000000001,
+  "final_settled_at_s": 0.015160000000000002,
+  "stop_time_s": 0.015460000000000002,
+  "tail_fraction": 0.1,
+  "criteria": "2% reference for output voltage; 2% final-phase excursion for other states and duty"
+}
